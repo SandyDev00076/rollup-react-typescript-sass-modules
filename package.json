@@ -1,0 +1,24 @@
+{
+  "name": "rollup-react-typescript-sass-modules",
+  "version": "1.0.0",
+  "description": "Creating a boilerplate for a working project built by a toolchain comprised of rollup, React, Typescript, and SCSS modules.",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "rollup -cw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyDev00076/rollup-react-typescript-sass-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyDev00076/rollup-react-typescript-sass-modules/issues"
+  },
+  "homepage": "https://github.com/SandyDev00076/rollup-react-typescript-sass-modules#readme",
+  "devDependencies": {
+    "rollup": "^2.58.3",
+    "rollup-plugin-serve": "^1.1.0"
+  }
+}
